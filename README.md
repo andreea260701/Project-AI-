@@ -13,10 +13,3 @@ This project demonstrates the use of a Neural Network to classify SMS messages a
 
 - **SMSSpamCollection**: The dataset used for training and testing the model. It consists of two columns: `label` (either 'spam' or 'ham') and `message` (the SMS content).
 - **`spam_classification.py`**: The main script that loads the data, builds the neural network, and evaluates its performance.
-
-## Requirements
-
-Install the required libraries by running:
-
-```bash
-pip install -r requirements.txt
